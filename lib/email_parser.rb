@@ -10,7 +10,7 @@ def initialize(addresses)
   @email = addresses
 end
 
-def self.parse
+def parse
 
 end
 
