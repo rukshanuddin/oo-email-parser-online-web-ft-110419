@@ -11,7 +11,9 @@ def initialize(addresses)
 end
 
 def parse
-
+  email_array = []
+  email_array = @email.split(", ")
+  email_array
 end
 
 end
